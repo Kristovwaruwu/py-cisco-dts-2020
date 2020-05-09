@@ -1,6 +1,9 @@
-# dts-kominfo python 2020
+# dts-kominfo-python-2020
 Digital Talent Scholarship files
-> edited and improved from previous repo: https://github.com/gunturbudi/digital-talent/tree/master/2019
+> edited and improved from previous repo: 
+1. https://github.com/gunturbudi/digital-talent/tree/master/2019
+2. https://github.com/sykrn/py-dts.git
+
 
 ## Modules
 * Modul 1 - Pengenalan Python dan Bahasa Pemrograman [open colab](https://colab.research.google.com/github/sykrn/py-dts/blob/master/Modul%201%20-%20Pengenalan%20Python%20dan%20Bahasa%20Pemrograman.ipynb)
@@ -9,5 +12,3 @@ Digital Talent Scholarship files
 * Modul 4 - Function Tuple Dictionaries and Data Processing [open colab](https://colab.research.google.com/github/sykrn/py-dts/blob/master/Modul%204%20-%20Function%20Tuple%20Dictionaries%20and%20Data%20Processing.ipynb)
 * Modul 5 - Modules, packages, string and list methods, and exceptions [open colab](https://colab.research.google.com/github/sykrn/py-dts/blob/master/Modul%205%20-%20Modules,%20packages,%20string%20and%20list%20methods,%20and%20exceptions.ipynb)
 * Modul 6 - Object Oriented Approach, Exception Handling, Working with Files
-
-> Semua modul akan diupdate secara berkala, sesuai jadwal pelatihan. Selamat belajar!
